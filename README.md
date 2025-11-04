@@ -114,3 +114,6 @@ Demographic Focus: Young Adults (18-25) are the most valuable segment in terms o
 
 Top Category: 'Clothing' is the most dominant category, suggesting it's the core of the business. 'Accessories' is a strong secondary category.
 
+## Visulaization
+<img width="1513" height="839" alt="image" src="https://github.com/user-attachments/assets/2735e5ee-3081-4551-a8c0-d8f5087019c7" />
+
